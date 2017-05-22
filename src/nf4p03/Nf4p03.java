@@ -43,6 +43,7 @@ public class Nf4p03 {
             System.out.println("New branch in project uf4p03");
             System.out.println("New code for branch00 in project uf4p03");
             System.out.println(“This line is going cause conflict”);
+            System.out.println(“New branch in project uf4p03”);
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }
